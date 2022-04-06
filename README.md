@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
     
-<h1>👋Hello there! I am Faustino Correa 💻</h1>
+<h1>👋 Hello there! I am Faustino Correa 💻</h1>
 
 <p>
     Data Scientist oriented to the analysis and visualization of data. Interested in ML and NLP.
@@ -21,7 +19,7 @@
 
 <hr>
 
-<h2>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h2>
+<h2>🔨 My Development Toolbelt</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
@@ -39,7 +37,24 @@
 
 <hr>
 
-<h2>🤓&nbsp;&nbsp;&nbsp;My progress: </h2>
+<h2>📊 Statistical Data</h2>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=FaustinoAndres&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+<hr>
+
+<h2>👨‍💻 My Portfolio</h2>
+
+<p>This is the place where you can see all the projects I've worked on.</p>
+<p>   
+    <a href="https://github.com/FaustinoAndres">
+    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
+</p>
+<hr>
+
+
+<h2>🚀 My progress</h2>
 
 <p>Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
 <p>
@@ -49,15 +64,6 @@
     <img src="https://img.shields.io/badge/-Platzi-223452?style=for-the-badge&labelColor=223452&logo=Platzi&logoColor=97CA3E" /></a>&nbsp;&nbsp;
 </p>
 
-<hr>
-
-<h2>👨‍💻&nbsp;&nbsp;&nbsp;My Portfolio</h2>
-
-<p>This is the place where you can see all the projects I've worked on.</p>
-<p>   
-    <a href="https://github.com/FaustinoAndres">
-    <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
-</p>
 <hr>
 
 <details>
