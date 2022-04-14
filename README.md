@@ -63,14 +63,14 @@
     <img src="https://img.shields.io/badge/-Portfolio%20Here-FFFFFF?&logo=GitHub&logoColor=black&style=for-the-badge"/></a>
 </p>
 <hr>
-
+<!---
 <h2>🎨 Some of my Projects!</h2>
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FaustinoAndres&repo=credit-card-customers)](https://github.com/FaustinoAndres/credit-card-customers)
 
 <Br>
-
+-->
 <h2>🚀 My progress</h2>
 
 <p>Link to my Platzi and DataCamp Profiles where you can see all courses i've finished</p>
